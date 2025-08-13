@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/davidantonioflores71-beep/backend-server-notificador/issues"
   },
-  "homepage": "https://github.com/davidantonioflores71-beep/backend-server-notificador#readme"
+  "homepage": "https://github.com/davidantonioflores71-beep/backend-server-notificador#readme",
+  "dependencies": {
+    "firebase-admin": "^13.4.0"
+  }
 }
