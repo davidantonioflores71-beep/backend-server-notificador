@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/davidantonioflores71-beep/backend-server-notificador#readme",
   "dependencies": {
-    "firebase-admin": "^13.4.0"
+    "firebase-admin": "^13.4.0",
+    "nodemailer": "^7.0.5"
   }
 }
